@@ -1073,12 +1073,11 @@ int main(int argc, char *argv[]) {
       rbusValue_Release(value);
    }
 
-   printf("Press Ctrl+C or send SIGTERM to exit\n");
    while (g_running) {
       sleep(1);
    }
 
-   printf("Shutting down...\n");
+   fprintf(stdout, "Shutting down...\n");
    cleanup();
    return 0;
 }
