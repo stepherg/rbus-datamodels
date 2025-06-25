@@ -1,0 +1,7927 @@
+[
+   {
+      "name": "Device.DeviceInfo.X_CISCO_COM_BootloaderVersion",
+      "value": "S1TC-3.77.21.67",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_CISCO_COM_FirmwareName",
+      "value": "rdkb_simulator_0130175806_1.241.2.4",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_CISCO_COM_FirmwareBuildTime",
+      "value": "2025-06-15",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_ConfigureWiFi",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_CaptivePortalEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_WiFiNeedsPersonalization",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_CloudUICapable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_CloudUIEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_UI_ACCESS",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_CloudUIWebURL",
+      "value": "http://XfinityHomeNetworking.com",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDK_RDKProfileName",
+      "value": "RDKB",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_COMCAST-COM_CM_IP",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_COMCAST-COM_CM_IPv6",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_COMCAST-COM_WAN_IP",
+      "value": "192.168.50.67",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_COMCAST-COM_WAN_IPv6",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_COMCAST-COM_MTA_MAC",
+      "value": "8C:6A:8D:84:C6:B9",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_COMCAST-COM_MTA_IP",
+      "value": "0.0.0.0",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_COMCAST-COM_MTA_IPV6",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_COMCAST-COM_AP_MAC",
+      "value": "8c:6a:8d:84:c6:ba",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_COMCAST-COM_EMS_MobileNumber",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_COMCAST-COM_EMS_ServerURL",
+      "value": "https://emsdev.sys.comcast.net:8080/captiveportalEMS",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_CMTS_MAC",
+      "value": "00:00:00:00:00:00",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_CISCO_COM_BaseMacAddress",
+      "value": "8C:6A:8D:84:C6:B8",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.Manufacturer",
+      "value": "Comcast",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_CISCO_COM_AdvancedServices",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_CISCO_COM_ProcessorSpeed",
+      "value": "1503",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.Hardware",
+      "value": "512",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.ModelName",
+      "value": "VCPE",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.Description",
+      "value": "Simulator",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.ProductClass",
+      "value": "Simulator",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.HardwareVersion",
+      "value": "2.2",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.SoftwareVersion",
+      "value": "rdkb_simulator_0130175806_1.241.2.4",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.AdditionalHardwareVersion",
+      "value": "2.2",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.AdditionalSoftwareVersion",
+      "value": "DEV",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.ProvisioningCode",
+      "value": "348967221243000010",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_BootTime",
+      "value": "1707402699",
+      "type": 2
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_LastRebootReason",
+      "value": "manual-reboot",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.FirstUseDate",
+      "value": "2024-02-07T23:52:32",
+      "type": 4
+   },
+   {
+      "name": "Device.DeviceInfo.VendorConfigFileNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DeviceInfo.X_COMCAST-COM_xfinitywifiCapableCPE",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_COMCAST_COM_xfinitywifiEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_COMCAST-COM_rdkbPlatformCapable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_ConfigureDocsicPollTime",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DeviceInfo.FactoryResetCount",
+      "value": "16",
+      "type": 2
+   },
+   {
+      "name": "Device.DeviceInfo.ClearResetCount",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_FirmwareDownloadAndFactoryReset",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.DeviceInfo.RouterName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.PartnerId",
+      "value": "RDKM",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.TR69CertLocation",
+      "value": "/etc/cacert.pem",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.LocalUIBrandingTable",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.WifiUIBrandingTable",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.PauseScreenFileLocation",
+      "value": "/usr/www/cmn/syndication/device_pause_screen/device_pause_screen_comcast.php",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.WANsideSSH.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_Control.ActivatePartnerId",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_Control.ClearPartnerId",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.DefaultAdminIP",
+      "value": "192.168.0.1",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.DefaultLocalIPv4SubnetRange",
+      "value": "255.255.255.0",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.DefaultLanguage",
+      "value": "eng",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.Footer.PartnerLink",
+      "value": "https://wiki.rdkcentral.com",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.Footer.UserGuideLink",
+      "value": "https://wiki.rdkcentral.com/display/RDK/Download+and+Build+Documentation",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.Footer.CustomerCentralLink",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.Footer.PartnerText",
+      "value": "RDKCENTRAL.com",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.Footer.UserGuideText",
+      "value": "User",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.Footer.CustomerCentralText",
+      "value": "customerCentral",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.Connection.MSOmenu",
+      "value": "RDKM",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.Connection.MSOinfo",
+      "value": "View",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.Connection.StatusTitle",
+      "value": "RDKM",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.Connection.StatusInfo",
+      "value": "View",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.NetworkDiagnosticTools.ConnectivityTestURL",
+      "value": "www.google.com",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.WiFiPersonalization.Support",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.WiFiPersonalization.PartnerHelpLink",
+      "value": "https://wiki.rdkcentral.com",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.WiFiPersonalization.SMSsupport",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.WiFiPersonalization.MyAccountAppSupport",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.WiFiPersonalization.MSOLogo",
+      "value": "logo_rdk.png",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.WiFiPersonalization.Title",
+      "value": "RDKM",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.WiFiPersonalization.WelcomeMessage",
+      "value": "Welcome",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.WiFiPersonalization.WelcomeMessage_fre",
+      "value": "Bienvenue",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.LocalUI.MSOLogo",
+      "value": "logo_rdk.png",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.LocalUI.DefaultLoginUsername",
+      "value": "admin",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.LocalUI.DefaultLoginPassword",
+      "value": "password",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.LocalUI.HomeNetworkControl",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.LocalUI.MSOLogoTitle",
+      "value": "RDKM",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_Syndication.RDKB_UIBranding.HelpTip.NetworkName",
+      "value": "RDKM",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_xOpsDeviceMgmt.Logging.xOpsDMUploadLogsNow",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_xOpsDeviceMgmt.Logging.xOpsDMLogsUploadStatus",
+      "value": "Not",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_xOpsDeviceMgmt.Logging.DmesgLogSyncInterval",
+      "value": "900",
+      "type": 2
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_xOpsDeviceMgmt.ReverseSSH.xOpsReverseSshArgs",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_xOpsDeviceMgmt.ReverseSSH.xOpsReverseSshTrigger",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_xOpsDeviceMgmt.ReverseSSH.xOpsReverseSshStatus",
+      "value": "INACTIVE",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_xOpsDeviceMgmt.ForwardSSH.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Control.RetrieveNow",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Control.XconfSelector",
+      "value": "prod",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Control.XconfUrl",
+      "value": "http://xconf:9092/featureControl/getSettings",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Control.ClearDB",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Control.ClearDBEnd",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Control.BridgeModeInEWAN",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Control.EnableWifiMacFilter",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.LocalWebUIOnWAN",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.EAPSupport",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.VoiceEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.ContainerSupport",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.CodebigSupport",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Xupnp",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.OneToOneNAT",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.EnableMultiProfileXDNS",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.RDKLowQueueRebootThreshold",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.CRL.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.CRL.DirectOCSP",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.CredDwnld.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.CredDwnld.Use",
+      "value": "false",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.DLCaStore.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Telemetry.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Telemetry.ConfigURL",
+      "value": "http://xconf:9092/loguploader/getT2Settings",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Telemetry.Version",
+      "value": "2.0.1",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Telemetry.MessageBusSource.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.SoftwareProcessManager.SelfHeal.AggressiveInterval",
+      "value": "5",
+      "type": 2
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.UPnP.Refactor.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.PresenceDetect.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.BlockLostandFoundInternet.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.CodeBigFirst.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.SSIDPSWDCTRL.SnmpEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.SSIDPSWDCTRL.Tr069Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.OAUTH.AuthMode",
+      "value": "potd",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.OAUTH.ServerUrl",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.OAUTH.TokenEndpoint",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.OAUTH.ClientId",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.OAUTH.ClientSecret",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.EncryptCloudUpload.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.UploadLogsOnUnscheduledReboot.Disable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.MEMSWAP.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.SyndicationFlowControl.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.SyndicationFlowControl.InitialForwardedMark",
+      "value": "cs0",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.SyndicationFlowControl.InitialOutputMark",
+      "value": "af22",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.RBUS.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.RBUS.Status",
+      "value": "Current",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.WANLinkHeal.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.SNMP.V3Support",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.SNMP.V2Support",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.SNMP.RestartMaintenanceEnable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.TDK.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.DNSStrictOrder.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.ShortsDL.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.FWUpdate.AutoExcluded.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.FWUpdate.AutoExcluded.XconfUrl",
+      "value": "https://xconf.xcal.tv/xconf/swu/stb",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.RDKFirmwareUpgrader.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.PeriodicFWCheck.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.HTTPSConfigDownload.Enabled",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.TelemetryEndpoint.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.TelemetryEndpoint.URL",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.AccountInfo.AccountID",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.CDLDM.CDLModuleUrl",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.WiFi-PSM-DB.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.UniqueTelemetryId.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.UniqueTelemetryId.TagString",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.UniqueTelemetryId.TimingInterval",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Snmpv3DHKickstart.RFCUpdateDone",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Snmpv3DHKickstart.Enabled",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Snmpv3DHKickstart.KickstartTotal",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Snmpv3DHKickstart.TableNumberOfEntries",
+      "value": "5",
+      "type": 2
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Snmpv3DHKickstart.Table.1.SecurityName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Snmpv3DHKickstart.Table.1.SecurityNumber",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Snmpv3DHKickstart.Table.2.SecurityName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Snmpv3DHKickstart.Table.2.SecurityNumber",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Snmpv3DHKickstart.Table.3.SecurityName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Snmpv3DHKickstart.Table.3.SecurityNumber",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Snmpv3DHKickstart.Table.4.SecurityName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Snmpv3DHKickstart.Table.4.SecurityNumber",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Snmpv3DHKickstart.Table.5.SecurityName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.Snmpv3DHKickstart.Table.5.SecurityNumber",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.TR069support.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.newNTP.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.SecureWebUI.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.SecureWebUI.LocalFqdn",
+      "value": "localwebui.net",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.UseXPKI.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.MTLS.mTlsLogUpload.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.NonRootSupport.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.AutoReboot.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_RFC.Feature.AutoReboot.UpTime",
+      "value": "10",
+      "type": 1
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_MaintenanceWindow.FirmwareUpgradeStartTime",
+      "value": "0",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_MaintenanceWindow.FirmwareUpgradeEndTime",
+      "value": "21600",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM.InternetStatus",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM.Ops.UploadLogsNow",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM.Ops.LogsUploadStatus",
+      "value": "Not",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.NetworkProperties.MaxTCPWindowSize",
+      "value": "196608",
+      "type": 2
+   },
+   {
+      "name": "Device.DeviceInfo.NetworkProperties.TCPImplementation",
+      "value": "cubic",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_WIFI_TELEMETRY.LogInterval",
+      "value": "3600",
+      "type": 1
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_WIFI_TELEMETRY.ChUtilityLogInterval",
+      "value": "900",
+      "type": 1
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_WIFI_TELEMETRY.NormalizedRssiList",
+      "value": "1,2",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_WIFI_TELEMETRY.CliStatList",
+      "value": "1,2",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_WIFI_TELEMETRY.TxRxRateList",
+      "value": "1,2",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_WIFI_TELEMETRY.SNRList",
+      "value": "1,2",
+      "type": 0
+   },
+   {
+      "name": "Device.Time.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Time.Status",
+      "value": "Synchronized",
+      "type": 0
+   },
+   {
+      "name": "Device.Time.NTPServer1",
+      "value": "time1.google.com",
+      "type": 0
+   },
+   {
+      "name": "Device.Time.NTPServer2",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Time.NTPServer3",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Time.NTPServer4",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Time.NTPServer5",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Time.LocalTimeZone",
+      "value": "UTC",
+      "type": 0
+   },
+   {
+      "name": "Device.Time.TimeOffset",
+      "value": "0",
+      "type": 0
+   },
+   {
+      "name": "Device.Time.UTC_Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.GRE.X_RDK_PublicHotspotData",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.UserInterface.PasswordReset",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.UserInterface.PasswordLockoutEnable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.UserInterface.PasswordLockoutAttempts",
+      "value": "10",
+      "type": 2
+   },
+   {
+      "name": "Device.UserInterface.PasswordLockoutTime",
+      "value": "300000",
+      "type": 2
+   },
+   {
+      "name": "Device.UserInterface.HTTPSecurityHeaderEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.HttpEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.HttpPort",
+      "value": "80",
+      "type": 2
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.HttpsEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.HttpsPort",
+      "value": "8181",
+      "type": 2
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.TelnetEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.TelnetPort",
+      "value": "23",
+      "type": 2
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.SSHEnable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.SSHPort",
+      "value": "22",
+      "type": 2
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.SupportedProtocols",
+      "value": "HTTP,HTTPS,SSH,Telnet",
+      "type": 0
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.StartIpV6",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.EndIpV6",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.UpgradePermission",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.FromAnyIP",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.StartIp",
+      "value": "255.255.255.255",
+      "type": 0
+   },
+   {
+      "name": "Device.UserInterface.X_CISCO_COM_RemoteAccess.EndIp",
+      "value": "255.255.255.255",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.InterfaceNumberOfEntries",
+      "value": "8",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.LinkNumberOfEntries",
+      "value": "4",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Status",
+      "value": "Down",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Alias",
+      "value": "Interface1_update",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Name",
+      "value": "LAN1",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.LastChange",
+      "value": "1707414528",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.LowerLayers",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Upstream",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.MACAddress",
+      "value": "8e:6a:8d:84:c6:bb",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.MaxBitRate",
+      "value": "1000",
+      "type": 1
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.CurrentBitRate",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.DuplexMode",
+      "value": "Auto",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.X_CISCO_COM_AssociatedDevice",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.X_RDKCENTRAL-COM_AssociatedDeviceNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Stats.BytesSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Stats.BytesReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Stats.PacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Stats.PacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.1.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Status",
+      "value": "Down",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Alias",
+      "value": "Interface2",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Name",
+      "value": "LAN2",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.LastChange",
+      "value": "1707414528",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.LowerLayers",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Upstream",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.MACAddress",
+      "value": "8e:6a:8d:84:c6:bb",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.MaxBitRate",
+      "value": "1000",
+      "type": 1
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.CurrentBitRate",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.DuplexMode",
+      "value": "Auto",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.X_CISCO_COM_AssociatedDevice",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.X_RDKCENTRAL-COM_AssociatedDeviceNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Stats.BytesSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Stats.BytesReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Stats.PacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Stats.PacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.2.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Status",
+      "value": "Down",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Alias",
+      "value": "Interface3",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Name",
+      "value": "LAN3",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.LastChange",
+      "value": "1707414529",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.LowerLayers",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Upstream",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.MACAddress",
+      "value": "8e:6a:8d:84:c6:bb",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.MaxBitRate",
+      "value": "1000",
+      "type": 1
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.CurrentBitRate",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.DuplexMode",
+      "value": "Auto",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.X_CISCO_COM_AssociatedDevice",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.X_RDKCENTRAL-COM_AssociatedDeviceNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Stats.BytesSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Stats.BytesReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Stats.PacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Stats.PacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.3.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Status",
+      "value": "Down",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Alias",
+      "value": "Interface4",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Name",
+      "value": "LAN4",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.LastChange",
+      "value": "1707414530",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.LowerLayers",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Upstream",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.MACAddress",
+      "value": "8e:6a:8d:84:c6:bb",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.MaxBitRate",
+      "value": "1000",
+      "type": 1
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.CurrentBitRate",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.DuplexMode",
+      "value": "Auto",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.X_CISCO_COM_AssociatedDevice",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.X_RDKCENTRAL-COM_AssociatedDeviceNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Stats.BytesSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Stats.BytesReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Stats.PacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Stats.PacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.4.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Status",
+      "value": "Down",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Alias",
+      "value": "Interface5",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Name",
+      "value": "LAN5",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.LastChange",
+      "value": "1707414530",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.LowerLayers",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Upstream",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.MACAddress",
+      "value": "8e:6a:8d:84:c6:bb",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.MaxBitRate",
+      "value": "2500",
+      "type": 1
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.CurrentBitRate",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.DuplexMode",
+      "value": "Auto",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.X_CISCO_COM_AssociatedDevice",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.X_RDKCENTRAL-COM_AssociatedDeviceNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Stats.BytesSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Stats.BytesReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Stats.PacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Stats.PacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.5.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Status",
+      "value": "Up",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Alias",
+      "value": "Interface6",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Name",
+      "value": "eWAN",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.LastChange",
+      "value": "1707414530",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.LowerLayers",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Upstream",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.MACAddress",
+      "value": "8c:6a:8d:84:c6:ba",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.MaxBitRate",
+      "value": "2500",
+      "type": 1
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.CurrentBitRate",
+      "value": "1000",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.DuplexMode",
+      "value": "Auto",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.X_CISCO_COM_AssociatedDevice",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.X_RDKCENTRAL-COM_AssociatedDeviceNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Stats.BytesSent",
+      "value": "7776043",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Stats.BytesReceived",
+      "value": "5723739",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Stats.PacketsSent",
+      "value": "12658",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Stats.PacketsReceived",
+      "value": "34442",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Stats.ErrorsReceived",
+      "value": "7149",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Stats.UnicastPacketsSent",
+      "value": "11768",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Stats.UnicastPacketsReceived",
+      "value": "10101",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Stats.DiscardPacketsReceived",
+      "value": "7115",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Stats.MulticastPacketsSent",
+      "value": "885",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Stats.MulticastPacketsReceived",
+      "value": "21193",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Stats.BroadcastPacketsSent",
+      "value": "5",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Stats.BroadcastPacketsReceived",
+      "value": "3148",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.6.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Status",
+      "value": "Up",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Alias",
+      "value": "Interface7",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Name",
+      "value": "erouter0",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.LastChange",
+      "value": "1707414530",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.LowerLayers",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Upstream",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.MACAddress",
+      "value": "8c:6a:8d:84:c6:ba",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.MaxBitRate",
+      "value": "1000",
+      "type": 1
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.CurrentBitRate",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.DuplexMode",
+      "value": "Auto",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.X_CISCO_COM_AssociatedDevice",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.X_RDKCENTRAL-COM_AssociatedDeviceNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Stats.BytesSent",
+      "value": "7720101",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Stats.BytesReceived",
+      "value": "3603810",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Stats.PacketsSent",
+      "value": "12656",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Stats.PacketsReceived",
+      "value": "23408",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Stats.MulticastPacketsReceived",
+      "value": "10181",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.7.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Status",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Alias",
+      "value": "Interface8",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Name",
+      "value": "lbr0",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.LastChange",
+      "value": "1707414530",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.LowerLayers",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Upstream",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.MACAddress",
+      "value": "8c:6a:8d:84:c6:bc",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.MaxBitRate",
+      "value": "1000",
+      "type": 1
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.CurrentBitRate",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.DuplexMode",
+      "value": "Auto",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.X_CISCO_COM_AssociatedDevice",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.X_RDKCENTRAL-COM_AssociatedDeviceNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Stats.BytesSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Stats.BytesReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Stats.PacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Stats.PacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Interface.8.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Status",
+      "value": "Up",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Alias",
+      "value": "Primary",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Name",
+      "value": "brlan0",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.1.LastChange",
+      "value": "1707402233",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.LowerLayers",
+      "value": "Device.Bridging.Bridge.1.Port.1",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.1.MACAddress",
+      "value": "8c:6a:8d:84:c6:bc",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.1.PriorityTagging",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Stats.BytesSent",
+      "value": "208262",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Stats.BytesReceived",
+      "value": "256",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Stats.PacketsSent",
+      "value": "4419",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Stats.PacketsReceived",
+      "value": "4",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.1.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Status",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Alias",
+      "value": "Home",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Name",
+      "value": "brlan1",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.2.LastChange",
+      "value": "1707401977",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.LowerLayers",
+      "value": "Device.Bridging.Bridge.2.Port.1",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.2.MACAddress",
+      "value": "00:00:00:00:00:00",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.2.PriorityTagging",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Stats.BytesSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Stats.BytesReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Stats.PacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Stats.PacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.2.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Status",
+      "value": "Up",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Alias",
+      "value": "Wan",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Name",
+      "value": "erouter0",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.3.LastChange",
+      "value": "1707414631",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.LowerLayers",
+      "value": "Device.Ethernet.Interface.7",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.3.MACAddress",
+      "value": "8c:6a:8d:84:c6:ba",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.3.PriorityTagging",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Stats.BytesSent",
+      "value": "7720231",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Stats.BytesReceived",
+      "value": "3603978",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Stats.PacketsSent",
+      "value": "12657",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Stats.PacketsReceived",
+      "value": "23410",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.3.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Status",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Alias",
+      "value": "Guest",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Name",
+      "value": "brlan7",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.4.LastChange",
+      "value": "1707400441",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.LowerLayers",
+      "value": "Device.Bridging.Bridge.5.Port.1",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.4.MACAddress",
+      "value": "00:00:00:00:00:00",
+      "type": 0
+   },
+   {
+      "name": "Device.Ethernet.Link.4.PriorityTagging",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Stats.BytesSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Stats.BytesReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Stats.PacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Stats.PacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Ethernet.Link.4.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.SupportedNCPs",
+      "value": "IPCP,",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.InterfaceNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.IPCPEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.PPP.Interface.1.Status",
+      "value": "Down",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.Alias",
+      "value": "Interface1",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.Name",
+      "value": "ppp0",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.LastChange",
+      "value": "1707414524",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.LowerLayers",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.Reset",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.PPP.Interface.1.ConnectionStatus",
+      "value": "Unconfigured",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.LastConnectionError",
+      "value": "ERROR_NONE",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.AutoDisconnectTime",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.IdleDisconnectTime",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.WarnDisconnectDelay",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.Username",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.Password",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.EncryptionProtocol",
+      "value": "None",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.CompressionProtocol",
+      "value": "None",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.AuthenticationProtocol",
+      "value": "PAP",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.MaxMRUSize",
+      "value": "1492",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.CurrentMRUSize",
+      "value": "1492",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.ConnectionTrigger",
+      "value": "AlwaysOn",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.LCPEcho",
+      "value": "30",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.LCPEchoRetry",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.PPPoE.SessionID",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.PPPoE.ACName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.PPPoE.ServiceName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.IPCP.LocalIPAddress",
+      "value": "0.0.0.0",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.IPCP.RemoteIPAddress",
+      "value": "0.0.0.0",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.IPCP.DNSServers",
+      "value": "0.0.0.0",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.IPCP.PassthroughEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.PPP.Interface.1.IPCP.PassthroughDHCPPool",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.PPP.Interface.1.Stats.BytesSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.Stats.BytesReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.Stats.PacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.Stats.PacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.PPP.Interface.1.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.IPv4Capable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.IPv4Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.IPv4Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.IPv6Capable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.IPv6Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.IPv6Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.ULAPrefix",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.InterfaceNumberOfEntries",
+      "value": "6",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.1.Status",
+      "value": "Up",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.Alias",
+      "value": "Interface_erouter0",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.Name",
+      "value": "erouter0",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.LastChange",
+      "value": "1707414528",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.LowerLayers",
+      "value": "Device.Ethernet.Link.3",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.Router",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.Reset",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.1.MaxMTUSize",
+      "value": "1500",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Type",
+      "value": "Normal",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.Loopback",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv4AddressNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.AutoIPEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv4Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv6Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.1.ULAEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv6AddressNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv6PrefixNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.X_CISCO_COM_TTL",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.X_CISCO_COM_ARPCacheTimeout",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.X_CISCO_COM_UPnPIGDEnabled",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.1.X_CISCO_COM_IPv6_IANA_IAID",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.X_CISCO_COM_IPv6_IANA_T1",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.X_CISCO_COM_IPv6_IANA_T2",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.X_CISCO_COM_IPv6_IAPD_IAID",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.X_CISCO_COM_IPv6_IAPD_T1",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.X_CISCO_COM_IPv6_IAPD_T2",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv4Address.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv4Address.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv4Address.1.Alias",
+      "value": "Interface_1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv4Address.1.IPAddress",
+      "value": "192.168.50.67",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv4Address.1.SubnetMask",
+      "value": "255.255.255.0",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv4Address.1.AddressingType",
+      "value": "DHCP",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv6Address.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv6Address.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv6Address.1.IPAddressStatus",
+      "value": "Preferred",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv6Address.1.Alias",
+      "value": "IPv6Address1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv6Address.1.IPAddress",
+      "value": "fe80::8e6a:8dff:fe84:c6ba",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv6Address.1.Origin",
+      "value": "AutoConfigured",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv6Address.1.Prefix",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv6Address.1.PreferredLifetime",
+      "value": "9999-12-31T23:59:59Z",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv6Address.1.ValidLifetime",
+      "value": "9999-12-31T23:59:59Z",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv6Address.1.X_CISCO_COM_PreferredLifetime",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv6Address.1.X_CISCO_COM_ValidLifetime",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.IPv6Address.1.Anycast",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.1.Stats.BytesSent",
+      "value": "7720361",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Stats.BytesReceived",
+      "value": "3604146",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Stats.PacketsSent",
+      "value": "12658",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Stats.PacketsReceived",
+      "value": "23412",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.1.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.2.Status",
+      "value": "Up",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.Alias",
+      "value": "Interface_wan0",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.Name",
+      "value": "wan0",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.LastChange",
+      "value": "1707414528",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.LowerLayers",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.Router",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.Reset",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.2.MaxMTUSize",
+      "value": "1500",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Type",
+      "value": "Normal",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.Loopback",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv4AddressNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.AutoIPEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv4Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv6Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.2.ULAEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv6AddressNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv6PrefixNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.X_CISCO_COM_TTL",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.X_CISCO_COM_ARPCacheTimeout",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.X_CISCO_COM_UPnPIGDEnabled",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.2.X_CISCO_COM_IPv6_IANA_IAID",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.X_CISCO_COM_IPv6_IANA_T1",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.X_CISCO_COM_IPv6_IANA_T2",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.X_CISCO_COM_IPv6_IAPD_IAID",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.X_CISCO_COM_IPv6_IAPD_T1",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.X_CISCO_COM_IPv6_IAPD_T2",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv4Address.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv4Address.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv4Address.1.Alias",
+      "value": "Interface_1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv4Address.1.IPAddress",
+      "value": "172.31.255.200",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv4Address.1.SubnetMask",
+      "value": "255.255.0.0",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv4Address.1.AddressingType",
+      "value": "DHCP",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv6Address.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv6Address.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv6Address.1.IPAddressStatus",
+      "value": "Preferred",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv6Address.1.Alias",
+      "value": "IPv6Address1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv6Address.1.IPAddress",
+      "value": "fe80::211:22ff:fe33:4455",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv6Address.1.Origin",
+      "value": "AutoConfigured",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv6Address.1.Prefix",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv6Address.1.PreferredLifetime",
+      "value": "9999-12-31T23:59:59Z",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv6Address.1.ValidLifetime",
+      "value": "9999-12-31T23:59:59Z",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv6Address.1.X_CISCO_COM_PreferredLifetime",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv6Address.1.X_CISCO_COM_ValidLifetime",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.IPv6Address.1.Anycast",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.2.Stats.BytesSent",
+      "value": "840",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Stats.BytesReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Stats.PacketsSent",
+      "value": "12",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Stats.PacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.2.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.3.Status",
+      "value": "Up",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.Alias",
+      "value": "Interface_lo",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.Name",
+      "value": "lo",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.LastChange",
+      "value": "1707414528",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.LowerLayers",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.Router",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.Reset",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.3.MaxMTUSize",
+      "value": "65536",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Type",
+      "value": "Loopback",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.Loopback",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv4AddressNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.AutoIPEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv4Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv6Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.3.ULAEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv6AddressNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv6PrefixNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.X_CISCO_COM_TTL",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.X_CISCO_COM_ARPCacheTimeout",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.X_CISCO_COM_UPnPIGDEnabled",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.3.X_CISCO_COM_IPv6_IANA_IAID",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.X_CISCO_COM_IPv6_IANA_T1",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.X_CISCO_COM_IPv6_IANA_T2",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.X_CISCO_COM_IPv6_IAPD_IAID",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.X_CISCO_COM_IPv6_IAPD_T1",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.X_CISCO_COM_IPv6_IAPD_T2",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv4Address.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv4Address.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv4Address.1.Alias",
+      "value": "Interface_1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv4Address.1.IPAddress",
+      "value": "127.0.0.1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv4Address.1.SubnetMask",
+      "value": "255.0.0.0",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv4Address.1.AddressingType",
+      "value": "Static",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv6Address.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv6Address.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv6Address.1.IPAddressStatus",
+      "value": "Preferred",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv6Address.1.Alias",
+      "value": "IPv6Address1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv6Address.1.IPAddress",
+      "value": "::1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv6Address.1.Origin",
+      "value": "WellKnown",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv6Address.1.Prefix",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv6Address.1.PreferredLifetime",
+      "value": "9999-12-31T23:59:59Z",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv6Address.1.ValidLifetime",
+      "value": "9999-12-31T23:59:59Z",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv6Address.1.X_CISCO_COM_PreferredLifetime",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv6Address.1.X_CISCO_COM_ValidLifetime",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.IPv6Address.1.Anycast",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.3.Stats.BytesSent",
+      "value": "61506669",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Stats.BytesReceived",
+      "value": "61506669",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Stats.PacketsSent",
+      "value": "1223280",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Stats.PacketsReceived",
+      "value": "1223280",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.3.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.4.Status",
+      "value": "Up",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.Alias",
+      "value": "Primary",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.Name",
+      "value": "brlan0",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.LastChange",
+      "value": "1707414528",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.LowerLayers",
+      "value": "Device.Ethernet.Link.1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.Router",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.Reset",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.4.MaxMTUSize",
+      "value": "1500",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Type",
+      "value": "Normal",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.Loopback",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv4AddressNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.AutoIPEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv4Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv6Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.4.ULAEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv6AddressNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv6PrefixNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.X_CISCO_COM_TTL",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.X_CISCO_COM_ARPCacheTimeout",
+      "value": "60",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.X_CISCO_COM_UPnPIGDEnabled",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.4.X_CISCO_COM_IPv6_IANA_IAID",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.X_CISCO_COM_IPv6_IANA_T1",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.X_CISCO_COM_IPv6_IANA_T2",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.X_CISCO_COM_IPv6_IAPD_IAID",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.X_CISCO_COM_IPv6_IAPD_T1",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.X_CISCO_COM_IPv6_IAPD_T2",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv4Address.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv4Address.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv4Address.1.Alias",
+      "value": "1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv4Address.1.IPAddress",
+      "value": "192.168.0.1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv4Address.1.SubnetMask",
+      "value": "255.255.255.0",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv4Address.1.AddressingType",
+      "value": "Static",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv6Address.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv6Address.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv6Address.1.IPAddressStatus",
+      "value": "Preferred",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv6Address.1.Alias",
+      "value": "IPv6Address1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv6Address.1.IPAddress",
+      "value": "fe80::8e6a:8dff:fe84:c6bc",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv6Address.1.Origin",
+      "value": "AutoConfigured",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv6Address.1.Prefix",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv6Address.1.PreferredLifetime",
+      "value": "9999-12-31T23:59:59Z",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv6Address.1.ValidLifetime",
+      "value": "9999-12-31T23:59:59Z",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv6Address.1.X_CISCO_COM_PreferredLifetime",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv6Address.1.X_CISCO_COM_ValidLifetime",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.IPv6Address.1.Anycast",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.4.Stats.BytesSent",
+      "value": "208262",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Stats.BytesReceived",
+      "value": "256",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Stats.PacketsSent",
+      "value": "4419",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Stats.PacketsReceived",
+      "value": "4",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.4.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.5.Status",
+      "value": "LowerLayerDown",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.Alias",
+      "value": "Home",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.Name",
+      "value": "brlan1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.LastChange",
+      "value": "1707414528",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.LowerLayers",
+      "value": "Device.Ethernet.Link.2",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.Router",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.Reset",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.5.MaxMTUSize",
+      "value": "1500",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Type",
+      "value": "Normal",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.Loopback",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv4AddressNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.AutoIPEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv4Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.5.ULAEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6AddressNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6PrefixNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.X_CISCO_COM_TTL",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.X_CISCO_COM_ARPCacheTimeout",
+      "value": "30",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.X_CISCO_COM_UPnPIGDEnabled",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.5.X_CISCO_COM_IPv6_IANA_IAID",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.X_CISCO_COM_IPv6_IANA_T1",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.X_CISCO_COM_IPv6_IANA_T2",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.X_CISCO_COM_IPv6_IAPD_IAID",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.X_CISCO_COM_IPv6_IAPD_T1",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.X_CISCO_COM_IPv6_IAPD_T2",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv4Address.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv4Address.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv4Address.1.Alias",
+      "value": "1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv4Address.1.IPAddress",
+      "value": "172.16.12.1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv4Address.1.SubnetMask",
+      "value": "255.255.255.0",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv4Address.1.AddressingType",
+      "value": "Static",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Prefix.1.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Prefix.1.Status",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Prefix.1.PrefixStatus",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Prefix.1.Alias",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Prefix.1.Prefix",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Prefix.1.Origin",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Prefix.1.StaticType",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Prefix.1.ParentPrefix",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Prefix.1.ChildPrefixBits",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Prefix.1.OnLink",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Prefix.1.Autonomous",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Prefix.1.PreferredLifetime",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Prefix.1.ValidLifetime",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Prefix.1.X_CISCO_COM_PreferredLifetime",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.IPv6Prefix.1.X_CISCO_COM_ValidLifetime",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Stats.BytesSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Stats.BytesReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Stats.PacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Stats.PacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.5.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.6.Status",
+      "value": "LowerLayerDown",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.Alias",
+      "value": "Guest",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.Name",
+      "value": "brlan7",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.LastChange",
+      "value": "1707414528",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.LowerLayers",
+      "value": "Device.Ethernet.Link.4",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.Router",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.Reset",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.6.MaxMTUSize",
+      "value": "1500",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Type",
+      "value": "Normal",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.Loopback",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv4AddressNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.AutoIPEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv4Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.6.ULAEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6AddressNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6PrefixNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.X_CISCO_COM_TTL",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.X_CISCO_COM_ARPCacheTimeout",
+      "value": "30",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.X_CISCO_COM_UPnPIGDEnabled",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.6.X_CISCO_COM_IPv6_IANA_IAID",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.X_CISCO_COM_IPv6_IANA_T1",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.X_CISCO_COM_IPv6_IANA_T2",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.X_CISCO_COM_IPv6_IAPD_IAID",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.X_CISCO_COM_IPv6_IAPD_T1",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.X_CISCO_COM_IPv6_IAPD_T2",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv4Address.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv4Address.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv4Address.1.Alias",
+      "value": "1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv4Address.1.IPAddress",
+      "value": "192.168.0.1",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv4Address.1.SubnetMask",
+      "value": "255.255.255.0",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv4Address.1.AddressingType",
+      "value": "Static",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Prefix.1.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Prefix.1.Status",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Prefix.1.PrefixStatus",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Prefix.1.Alias",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Prefix.1.Prefix",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Prefix.1.Origin",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Prefix.1.StaticType",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Prefix.1.ParentPrefix",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Prefix.1.ChildPrefixBits",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Prefix.1.OnLink",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Prefix.1.Autonomous",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Prefix.1.PreferredLifetime",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Prefix.1.ValidLifetime",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Prefix.1.X_CISCO_COM_PreferredLifetime",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.IPv6Prefix.1.X_CISCO_COM_ValidLifetime",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Stats.BytesSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Stats.BytesReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Stats.PacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Stats.PacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Stats.ErrorsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Stats.ErrorsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Stats.UnicastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Stats.UnicastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Stats.DiscardPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Stats.DiscardPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Stats.MulticastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Stats.MulticastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Stats.BroadcastPacketsSent",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Stats.BroadcastPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.IP.Interface.6.Stats.UnknownProtoPacketsReceived",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Routing.RouterNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.Routing.Router.1.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.Router.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.Alias",
+      "value": "Router2",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv4ForwardingNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Routing.Router.1.X_CISCO_COM_StaticIPv4ForwardingNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6ForwardingNumberOfEntries",
+      "value": "11",
+      "type": 2
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.1.Alias",
+      "value": "IPv6Forwarding1",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.1.DestIPPrefix",
+      "value": "fe80::/64",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.1.ForwardingPolicy",
+      "value": "-1",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.1.NextHop",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.1.Interface",
+      "value": "Device.IP.Interface.1.",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.1.Origin",
+      "value": "Static",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.1.ForwardingMetric",
+      "value": "256",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.1.ExpirationTime",
+      "value": "2024-02-07T23:52:32",
+      "type": 4
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.2.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.2.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.2.Alias",
+      "value": "IPv6Forwarding2",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.2.DestIPPrefix",
+      "value": "::1",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.2.ForwardingPolicy",
+      "value": "-1",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.2.NextHop",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.2.Interface",
+      "value": "Device.IP.Interface.3.",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.2.Origin",
+      "value": "Static",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.2.ForwardingMetric",
+      "value": "256",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.2.ExpirationTime",
+      "value": "2024-02-07T23:52:32",
+      "type": 4
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.3.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.3.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.3.Alias",
+      "value": "IPv6Forwarding3",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.3.DestIPPrefix",
+      "value": "fe80::/64",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.3.ForwardingPolicy",
+      "value": "-1",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.3.NextHop",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.3.Interface",
+      "value": "Device.IP.Interface.2.",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.3.Origin",
+      "value": "Static",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.3.ForwardingMetric",
+      "value": "256",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.3.ExpirationTime",
+      "value": "2024-02-07T23:52:32",
+      "type": 4
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.4.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.4.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.4.Alias",
+      "value": "IPv6Forwarding4",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.4.DestIPPrefix",
+      "value": "fe80::/64",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.4.ForwardingPolicy",
+      "value": "-1",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.4.NextHop",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.4.Interface",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.4.Origin",
+      "value": "Static",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.4.ForwardingMetric",
+      "value": "256",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.4.ExpirationTime",
+      "value": "2024-02-07T23:52:32",
+      "type": 4
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.5.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.5.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.5.Alias",
+      "value": "IPv6Forwarding5",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.5.DestIPPrefix",
+      "value": "fe80::/64",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.5.ForwardingPolicy",
+      "value": "-1",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.5.NextHop",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.5.Interface",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.5.Origin",
+      "value": "Static",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.5.ForwardingMetric",
+      "value": "256",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.5.ExpirationTime",
+      "value": "2024-02-07T23:52:32",
+      "type": 4
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.6.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.6.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.6.Alias",
+      "value": "IPv6Forwarding6",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.6.DestIPPrefix",
+      "value": "fe80::/64",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.6.ForwardingPolicy",
+      "value": "-1",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.6.NextHop",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.6.Interface",
+      "value": "Device.IP.Interface.4.",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.6.Origin",
+      "value": "Static",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.6.ForwardingMetric",
+      "value": "256",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.6.ExpirationTime",
+      "value": "2024-02-07T23:52:32",
+      "type": 4
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.7.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.7.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.7.Alias",
+      "value": "IPv6Forwarding7",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.7.DestIPPrefix",
+      "value": "fe80::/64",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.7.ForwardingPolicy",
+      "value": "-1",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.7.NextHop",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.7.Interface",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.7.Origin",
+      "value": "Static",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.7.ForwardingMetric",
+      "value": "256",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.7.ExpirationTime",
+      "value": "2024-02-07T23:52:32",
+      "type": 4
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.8.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.8.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.8.Alias",
+      "value": "IPv6Forwarding8",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.8.DestIPPrefix",
+      "value": "fe80::/64",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.8.ForwardingPolicy",
+      "value": "-1",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.8.NextHop",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.8.Interface",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.8.Origin",
+      "value": "Static",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.8.ForwardingMetric",
+      "value": "256",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.8.ExpirationTime",
+      "value": "2024-02-07T23:52:32",
+      "type": 4
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.9.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.9.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.9.Alias",
+      "value": "IPv6Forwarding9",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.9.DestIPPrefix",
+      "value": "fe80::/64",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.9.ForwardingPolicy",
+      "value": "-1",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.9.NextHop",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.9.Interface",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.9.Origin",
+      "value": "Static",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.9.ForwardingMetric",
+      "value": "256",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.9.ExpirationTime",
+      "value": "2024-02-07T23:52:32",
+      "type": 4
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.10.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.10.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.10.Alias",
+      "value": "IPv6Forwarding10",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.10.DestIPPrefix",
+      "value": "fe80::/64",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.10.ForwardingPolicy",
+      "value": "-1",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.10.NextHop",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.10.Interface",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.10.Origin",
+      "value": "Static",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.10.ForwardingMetric",
+      "value": "256",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.10.ExpirationTime",
+      "value": "2024-02-07T23:52:32",
+      "type": 4
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.11.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.11.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.11.Alias",
+      "value": "IPv6Forwarding11",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.11.DestIPPrefix",
+      "value": "fe80::/64",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.11.ForwardingPolicy",
+      "value": "-1",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.11.NextHop",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.11.Interface",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.11.Origin",
+      "value": "Static",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.11.ForwardingMetric",
+      "value": "256",
+      "type": 1
+   },
+   {
+      "name": "Device.Routing.Router.1.IPv6Forwarding.11.ExpirationTime",
+      "value": "2024-02-07T23:52:32",
+      "type": 4
+   },
+   {
+      "name": "Device.Routing.RIP.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.RIP.SupportedModes",
+      "value": "Both",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.RIP.X_CISCO_COM_UpdateInterval",
+      "value": "5",
+      "type": 2
+   },
+   {
+      "name": "Device.Routing.RIP.X_CISCO_COM_DefaultMetric",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.Routing.RIP.InterfaceSettingNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.Routing.RIP.InterfaceSetting.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.RIP.InterfaceSetting.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.RIP.InterfaceSetting.1.Alias",
+      "value": "Ethernet",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.RIP.InterfaceSetting.1.Interface",
+      "value": "Ethernet",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.RIP.InterfaceSetting.1.X_CISCO_COM_SendVersion",
+      "value": "RIP2",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.RIP.InterfaceSetting.1.X_CISCO_COM_ReceiveVersion",
+      "value": "RIP2",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.RIP.InterfaceSetting.1.X_CISCO_COM_Neighbor",
+      "value": "0.0.0.0",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.RIP.InterfaceSetting.1.ReportIPAddressType",
+      "value": "Unicast",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.RIP.InterfaceSetting.1.AcceptRA",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.RIP.InterfaceSetting.1.SendRA",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.RIP.InterfaceSetting.1.X_CISCO_COM_AuthenticationType",
+      "value": "MD5",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.RIP.InterfaceSetting.1.X_CISCO_COM_Md5KeyID",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.Routing.RIP.InterfaceSetting.1.X_CISCO_COM_SimplePassword",
+      "value": "comcast",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.RIP.InterfaceSetting.1.X_CISCO_COM_Md5KeyValue",
+      "value": "comcast",
+      "type": 0
+   },
+   {
+      "name": "Device.Routing.RouteInformation.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Routing.RouteInformation.InterfaceSettingNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DNS.Client.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DNS.Client.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.DNS.Client.ServerNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.DNS.Client.Server.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DNS.Client.Server.1.Status",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DNS.Client.Server.1.Alias",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DNS.Client.Server.1.DNSServer",
+      "value": "192.168.50.1",
+      "type": 0
+   },
+   {
+      "name": "Device.DNS.Client.Server.1.Interface",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DNS.Client.Server.1.Type",
+      "value": "DHCPv4",
+      "type": 0
+   },
+   {
+      "name": "Device.DNS.Client.Server.1.X_CISCO_COM_Order",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.Firewall.Config",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Firewall.Version",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Firewall.LastChange",
+      "value": "2024-02-07T23:52:32",
+      "type": 4
+   },
+   {
+      "name": "Device.Firewall.X_RDKCENTRAL-COM_Security.V4.BlockFragIPPkts",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Firewall.X_RDKCENTRAL-COM_Security.V4.PortScanProtect",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Firewall.X_RDKCENTRAL-COM_Security.V4.IPFloodDetect",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Firewall.X_RDKCENTRAL-COM_Security.V6.BlockFragIPPkts",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Firewall.X_RDKCENTRAL-COM_Security.V6.PortScanProtect",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Firewall.X_RDKCENTRAL-COM_Security.V6.IPFloodDetect",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.NAT.X_CISCO_COM_TCPTimeout",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.NAT.X_CISCO_COM_UDPTimeout",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.NAT.X_CISCO_COM_ICMPTimeout",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.NAT.X_Comcast_com_EnablePortMapping",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.NAT.X_Comcast_com_EnableHSPortMapping",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.NAT.X_Comcast_com_EnableNATMapping",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.NAT.PortMappingNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.NAT.X_CISCO_COM_DMZ.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.NAT.X_CISCO_COM_DMZ.RemoteIPStart",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.NAT.X_CISCO_COM_DMZ.RemoteIPEnd",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.NAT.X_CISCO_COM_DMZ.InternalIP",
+      "value": "0.0.0.0",
+      "type": 0
+   },
+   {
+      "name": "Device.NAT.X_CISCO_COM_DMZ.InternalMAC",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.NAT.X_CISCO_COM_DMZ.IPv6Host",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.NAT.X_CISCO_COM_PortTriggers.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.NAT.X_CISCO_COM_PortTriggers.TriggerNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.ClientNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Client.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Client.1.Alias",
+      "value": "eRouter",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Client.1.X_CISCO_COM_BootFileName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Client.1.Interface",
+      "value": "Device.IP.Interface.1.",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Client.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Client.1.DHCPStatus",
+      "value": "Bound",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Client.1.Renew",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Client.1.IPAddress",
+      "value": "192.168.50.67",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Client.1.SubnetMask",
+      "value": "255.255.255.0",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Client.1.IPRouters",
+      "value": "192.168.50.1",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Client.1.DNSServers",
+      "value": "172.16.0.250",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Client.1.LeaseTimeRemaining",
+      "value": "74600",
+      "type": 1
+   },
+   {
+      "name": "Device.DHCPv4.Client.1.DHCPServer",
+      "value": "172.16.0.1",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Client.1.SentOptionNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Client.1.ReqOptionNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.PoolNumberOfEntries",
+      "value": "3",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.X_CISCO_COM_TimeOffset",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Alias",
+      "value": "ServerPool-1",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Order",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Interface",
+      "value": "Device.IP.Interface.4.",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.VendorClassID",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.VendorClassIDExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.VendorClassIDMode",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.ClientID",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.ClientIDExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.UserClassID",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.UserClassIDExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Chaddr",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.ChaddrMask",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.ChaddrExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.MinAddress",
+      "value": "192.168.0.3",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.MaxAddress",
+      "value": "192.168.0.250",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.ReservedAddresses",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.SubnetMask",
+      "value": "255.255.255.0",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.DNSServers",
+      "value": "10.191.224.11",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.DNSServersEnabled",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.DomainName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.IPRouters",
+      "value": "192.168.0.1",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.LeaseTime",
+      "value": "604800",
+      "type": 1
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.StaticAddressNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.OptionNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.ClientNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.StaticAddress.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.StaticAddress.1.Alias",
+      "value": "StaticAddress3",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.StaticAddress.1.Chaddr",
+      "value": "c4:8b:9f:9f:e2:9e",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.StaticAddress.1.Yiaddr",
+      "value": "192.168.0.3",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.StaticAddress.1.X_CISCO_COM_DeviceName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.StaticAddress.1.X_CISCO_COM_Comment",
+      "value": "Office",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Option.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Option.1.Alias",
+      "value": "Option1",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Option.1.Tag",
+      "value": "6",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Option.1.Value",
+      "value": "Value2",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Client.1.Alias",
+      "value": "Alias0",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Client.1.X_CISCO_COM_Comment",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Client.1.X_CISCO_COM_Interface",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Client.1.X_CISCO_COM_HostName",
+      "value": "Roberts-iPad",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Client.1.ClassId",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Client.1.Chaddr",
+      "value": "ac:3c:0b:30:32:c4",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Client.1.Active",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Client.1.IPv4AddressNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Client.1.OptionNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Client.1.IPv4Address.1.IPAddress",
+      "value": "192.168.0.218",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Client.1.IPv4Address.1.LeaseTimeRemaining",
+      "value": "2024-02-15T04:01:16Z",
+      "type": 4
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Client.1.IPv4Address.1.X_CISCO_COM_LeaseTimeCreation",
+      "value": "1970-01-01T00:00:01Z",
+      "type": 4
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Client.1.Option.1.Tag",
+      "value": "55",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.1.Client.1.Option.1.Value",
+      "value": "017903060F77FC",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.X_CISCO_COM_TimeOffset",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.Alias",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.Order",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.Interface",
+      "value": "Device.IP.Interface.5",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.VendorClassID",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.VendorClassIDExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.VendorClassIDMode",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.ClientID",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.ClientIDExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.UserClassID",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.UserClassIDExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.Chaddr",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.ChaddrMask",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.ChaddrExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.MinAddress",
+      "value": "172.16.12.100",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.MaxAddress",
+      "value": "172.16.12.150",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.ReservedAddresses",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.SubnetMask",
+      "value": "255.255.255.0",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.DNSServers",
+      "value": "172.22.156.1,172.22.156.3,172.22.156.3,172.22.156.4",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.DNSServersEnabled",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.DomainName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.IPRouters",
+      "value": "172.16.12.1",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.LeaseTime",
+      "value": "86400",
+      "type": 1
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.StaticAddressNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.OptionNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.2.ClientNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.X_CISCO_COM_TimeOffset",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.Alias",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.Order",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.Interface",
+      "value": "Device.IP.Interface.6",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.VendorClassID",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.VendorClassIDExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.VendorClassIDMode",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.ClientID",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.ClientIDExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.UserClassID",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.UserClassIDExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.Chaddr",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.ChaddrMask",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.ChaddrExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.MinAddress",
+      "value": "192.168.0.100",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.MaxAddress",
+      "value": "192.168.0.150",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.ReservedAddresses",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.SubnetMask",
+      "value": "255.255.255.0",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.DNSServers",
+      "value": "192.168.0.1",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.DNSServersEnabled",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.DomainName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.IPRouters",
+      "value": "192.168.0.1",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.LeaseTime",
+      "value": "86400",
+      "type": 1
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.StaticAddressNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.OptionNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv4.Server.Pool.3.ClientNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv6.ClientNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.Alias",
+      "value": "Client1",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.Interface",
+      "value": "Device.IP.Interface.1.",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.Status",
+      "value": "Disabled",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.DUID",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.RequestAddresses",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.RequestPrefixes",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.RapidCommit",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.Renew",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.SuggestedT1",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.SuggestedT2",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.SupportedOptions",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.RequestedOptions",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.ServerNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.SentOptionNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv6.Client.1.ReceivedOptionNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv6.Server.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Server.X_CISCO_COM_Type",
+      "value": "Stateful",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.PoolNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.Status",
+      "value": "Disabled",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.Alias",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.Order",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.Interface",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.DUID",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.DUIDExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.VendorClassID",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.VendorClassIDExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.UserClassID",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.UserClassIDExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.SourceAddress",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.SourceAddressMask",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.SourceAddressExclude",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.IANAEnable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.IANAManualPrefixes",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.IANAPrefixes",
+      "value": "Device.IP.Interface.1.IPv6Prefix.1.",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.PrefixRangeBegin",
+      "value": "0:0:0:0001",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.PrefixRangeEnd",
+      "value": "0:0:0:fffe",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.IAPDEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.IAPDManualPrefixes",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.IAPDPrefixes",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.IAPDAddLength",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.X_RDKCENTRAL-COM_DNSServersEnabled",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.X_RDKCENTRAL-COM_DNSServers",
+      "value": "fdc2:126c:7a6d::1",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.ClientNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.OptionNumberOfEntries",
+      "value": "2",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.Option.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.Option.1.Alias",
+      "value": "Option1",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.Option.1.Tag",
+      "value": "23",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.Option.1.Value",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.Option.1.PassthroughClient",
+      "value": "Device.DHCPv6.Client.1.",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.Option.2.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.Option.2.Alias",
+      "value": "Option2",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.Option.2.Tag",
+      "value": "24",
+      "type": 2
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.Option.2.Value",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.DHCPv6.Server.Pool.1.Option.2.PassthroughClient",
+      "value": "Device.DHCPv6.Client.1.",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.UserNumberOfEntries",
+      "value": "3",
+      "type": 2
+   },
+   {
+      "name": "Device.Users.User.1.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Users.User.1.RemoteAccessCapable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Users.User.1.Username",
+      "value": "mso",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.1.Password",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.1.Language",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.1.X_CISCO_COM_AccessPermission",
+      "value": "HomeUser",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.1.X_CISCO_COM_Password",
+      "value": "Invalid_PWD",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.1.NumOfFailedAttempts",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Users.User.1.X_RDKCENTRAL-COM_ComparePassword",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.1.X_RDKCENTRAL-COM_PasswordReset",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Users.User.1.X_RDKCENTRAL-COM_RemainingAttempts",
+      "value": "10",
+      "type": 1
+   },
+   {
+      "name": "Device.Users.User.1.X_RDKCENTRAL-COM_LoginCounts",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.Users.User.1.X_RDKCENTRAL-COM_LockOutRemainingTime",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.Users.User.1.NumOfRestoreFailedAttempt",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Users.User.2.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Users.User.2.RemoteAccessCapable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Users.User.2.Username",
+      "value": "cusadmin",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.2.Password",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.2.Language",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.2.X_CISCO_COM_AccessPermission",
+      "value": "HomeUser",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.2.X_CISCO_COM_Password",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.2.NumOfFailedAttempts",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Users.User.2.X_RDKCENTRAL-COM_ComparePassword",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.2.X_RDKCENTRAL-COM_PasswordReset",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Users.User.2.X_RDKCENTRAL-COM_RemainingAttempts",
+      "value": "10",
+      "type": 1
+   },
+   {
+      "name": "Device.Users.User.2.X_RDKCENTRAL-COM_LoginCounts",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.Users.User.2.X_RDKCENTRAL-COM_LockOutRemainingTime",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.Users.User.2.NumOfRestoreFailedAttempt",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Users.User.3.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Users.User.3.RemoteAccessCapable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Users.User.3.Username",
+      "value": "admin",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.3.Password",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.3.Language",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.3.X_CISCO_COM_AccessPermission",
+      "value": "HomeUser",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.3.X_CISCO_COM_Password",
+      "value": "432729b36415f153f678e5a2da86d8768520734de98d80340bc53b26ebe66e3e",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.3.NumOfFailedAttempts",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Users.User.3.X_RDKCENTRAL-COM_ComparePassword",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.Users.User.3.X_RDKCENTRAL-COM_PasswordReset",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Users.User.3.X_RDKCENTRAL-COM_RemainingAttempts",
+      "value": "10",
+      "type": 1
+   },
+   {
+      "name": "Device.Users.User.3.X_RDKCENTRAL-COM_LoginCounts",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.Users.User.3.X_RDKCENTRAL-COM_LockOutRemainingTime",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.Users.User.3.NumOfRestoreFailedAttempt",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.UPnP.Discovery.X_CISCO_COM_Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.UPnP.Discovery.X_CISCO_COM_PollingInterval",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.UPnP.Device.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.UPnP.Device.UPnPIGD",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.UPnP.Device.X_CISCO_COM_IGD_AdvertisementPeriod",
+      "value": "1800",
+      "type": 2
+   },
+   {
+      "name": "Device.UPnP.Device.X_CISCO_COM_IGD_TTL",
+      "value": "5",
+      "type": 2
+   },
+   {
+      "name": "Device.UPnP.Device.Capabilities.UPnPArchitecture",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.UPnP.Device.Capabilities.UPnPArchitectureMinorVer",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.UPnP.Device.Capabilities.UPnPMediaServer",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.UPnP.Device.Capabilities.UPnPMediaRenderer",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.UPnP.Device.Capabilities.UPnPWLANAccessPoint",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.UPnP.Device.Capabilities.UPnPBasicDevice",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.UPnP.Device.Capabilities.UPnPQoSDevice",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.UPnP.Device.Capabilities.UPnPQoSPolicyHolder",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.UPnP.Device.Capabilities.UPnPIGD",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.UPnP.Device.Capabilities.UPnPDMBasicMgmt",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.UPnP.Device.Capabilities.UPnPDMConfigurationMgmt",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.UPnP.Device.Capabilities.UPnPDMSoftwareMgmt",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.ServiceNumberOfEntries",
+      "value": "4",
+      "type": 2
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.1.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.1.ConnectionState",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.1.Alias",
+      "value": "DdnsService1",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.1.Domain",
+      "value": "cisco.com",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.1.ServiceName",
+      "value": "DynDns.org",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.1.Username",
+      "value": "admin1",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.1.Password",
+      "value": "admin1",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.1.Wildcard",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.1.MXHostName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.1.MXHostAsSecondary",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.1.AssociatedConnection",
+      "value": "Device.IP.Interface.1",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.2.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.2.ConnectionState",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.2.Alias",
+      "value": "DdnsService2",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.2.Domain",
+      "value": "cisco.com",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.2.ServiceName",
+      "value": "TZO.com",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.2.Username",
+      "value": "admin2",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.2.Password",
+      "value": "admin2",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.2.Wildcard",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.2.MXHostName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.2.MXHostAsSecondary",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.2.AssociatedConnection",
+      "value": "Device.IP.Interface.1",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.3.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.3.ConnectionState",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.3.Alias",
+      "value": "DdnsService3",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.3.Domain",
+      "value": "cisco.com",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.3.ServiceName",
+      "value": "Changeip.com",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.3.Username",
+      "value": "admin3",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.3.Password",
+      "value": "admin3",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.3.Wildcard",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.3.MXHostName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.3.MXHostAsSecondary",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.3.AssociatedConnection",
+      "value": "Device.IP.Interface.1",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.4.Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.4.ConnectionState",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.4.Alias",
+      "value": "DdnsService4",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.4.Domain",
+      "value": "cisco.com",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.4.ServiceName",
+      "value": "Freedns.afraid.org",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.4.Username",
+      "value": "admin4",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.4.Password",
+      "value": "admin4",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.4.Wildcard",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.4.MXHostName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.4.MXHostAsSecondary",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DDNS.Service.4.AssociatedConnection",
+      "value": "Device.IP.Interface.1",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.CleanLog",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.TriggerEmailLog",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.FilterWebTraffic",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.TrafficDetect",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.FilterLanTraffic",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.AllowPassthrough",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.EmailEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.EmailSendTo",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.EmailServer",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.EmailUserName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.EmailPassword",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.EmailFromAddress",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.EmailFirewallBreach",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.ApplyFirewallSettings",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.EmailParentalControlBreach",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.EmailAlertsOrWarnings",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.EmailSendLogs",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.L2TPPassthrough",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.PPTPPassthrough",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.IPSecPassthrough",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.FilterNATRedirection",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.FilterMulticast",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.FilterMulticastV6",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.FilterAnonymousInternetRequests",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.FilterAnonymousInternetRequestsV6",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.WebBlockCookies",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.WebBlockActiveX",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.WebBlockJava",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.WebBlockProxy",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.FirewallLevel",
+      "value": "Medium",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.FirewallLevelV6",
+      "value": "Custom",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.FilterHTTP",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.FilterHTTPV6",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.FilterHTTPs",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.FilterHTTPsV6",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.FilterP2P",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.FilterP2PV6",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.FilterIdent",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.FilterIdentV6",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.WanPingEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.WanPingEnableV6",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.Firewall.TrueStaticIpEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.InternetAccess.NumberOfPolicies",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.X_CISCO_COM_Security.InternetAccess.AccessPolicyNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.IGMPProxyEnable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.DNSProxyEnable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.TelnetEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.SSHEnable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.ReinitCmMac",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.HNAPEnable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.MultiHomedHSDFlag",
+      "value": "None",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.PowerSavingModeStatus",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.MultiHomedUIPageControl",
+      "value": "User",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.DeviceMode",
+      "value": "Dualstack",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.ResetDefaultEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.RebootDevice",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.FactoryReset",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.UserChangedFlags",
+      "value": "0",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.DeviceConfigStatus",
+      "value": "Complete",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.DeviceConfigIgnore",
+      "value": "notRequire",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.LogDmExecutionTime",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.SNMPEnable",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.HTTPEnable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.HTTPPort",
+      "value": "80",
+      "type": 2
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.HTTPSEnable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.HTTPSPort",
+      "value": "8181",
+      "type": 2
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.ReinitMacThreshold",
+      "value": "5",
+      "type": 2
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WanAddressMode",
+      "value": "DHCP",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WanStaticIPAddress",
+      "value": "0.0.0.0",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WanStaticSubnetMask",
+      "value": "0.0.0.0",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WanStaticGatewayIP",
+      "value": "0.0.0.0",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WanSecondIPAddress",
+      "value": "164.156.242.118",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WanSecondIPRipAdvertised",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WanBackupDefaultGateway",
+      "value": "164.156.242.118",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.EnableStaticNameServer",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.IPv6NameServer1",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.IPv6NameServer2",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.NameServer1",
+      "value": "0.0.0.0",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.NameServer2",
+      "value": "0.0.0.0",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.ReleaseWan",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.RenewWan",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.HostName",
+      "value": "Docsis-Gateway",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.DomainName",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.EnableZeroConfig",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.IGMPSnoopingEnable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WebUITimeout",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.EnableMonitorUserChangedParams",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.UserOpComponents",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.UserChangedParams",
+      "value": "",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.ErouterEnable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.LanManagementEntryNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.LanManagementEntry.1.LanMode",
+      "value": "router",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.LanManagementEntry.1.LanNetwork",
+      "value": "192.168.0.0",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.LanManagementEntry.1.LanNetworksAllow",
+      "value": "default",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.LanManagementEntry.1.LanSubnetMask",
+      "value": "255.255.255.0",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.LanManagementEntry.1.LanIPAddress",
+      "value": "192.168.0.1",
+      "type": 0
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.LanManagementEntry.1.LanDhcpServer",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.LanManagementEntry.1.LanNaptEnable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.LanManagementEntry.1.LanNaptOnDhcp",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.LanManagementEntry.1.LanTos",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.LanManagementEntry.1.LanDhcp125",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.LanManagementEntry.1.LanHnap",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.LanManagementEntry.1.LanUpnp",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WebAccessLevel.HomeUser_Lan_Level",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WebAccessLevel.HomeUser_RfCM_Level",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WebAccessLevel.HomeUser_Mta_Level",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WebAccessLevel.HomeUser_WanRG_Level",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WebAccessLevel.CusAdmin_Lan_Level",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WebAccessLevel.CusAdmin_RfCM_Level",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WebAccessLevel.CusAdmin_Mta_Level",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WebAccessLevel.CusAdmin_WanRG_Level",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WebAccessLevel.AdvUser_Lan_Level",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WebAccessLevel.AdvUser_RfCM_Level",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WebAccessLevel.AdvUser_Mta_Level",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.X_CISCO_COM_DeviceControl.WebAccessLevel.AdvUser_WanRG_Level",
+      "value": "0",
+      "type": 1
+   },
+   {
+      "name": "Device.Bridging.MaxBridgeEntries",
+      "value": "8",
+      "type": 2
+   },
+   {
+      "name": "Device.Bridging.MaxDBridgeEntries",
+      "value": "8",
+      "type": 2
+   },
+   {
+      "name": "Device.Bridging.MaxQBridgeEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Bridging.MaxVLANEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Bridging.MaxFilterEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Bridging.BridgeNumberOfEntries",
+      "value": "9",
+      "type": 2
+   },
+   {
+      "name": "Device.Bridging.FilterNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Bridging.Bridge.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Bridging.Bridge.1.Status",
+      "value": "Enabled",
+      "type": 0
+   },
+   {
+      "name": "Device.Bridging.Bridge.1.Alias",
+      "value": "Primary",
+      "type": 0
+   },
+   {
+      "name": "Device.Bridging.Bridge.1.Standard",
+      "value": "802.1Q-2005",
+      "type": 0
+   },
+   {
+      "name": "Device.Bridging.Bridge.1.PortNumberOfEntries",
+      "value": "13",
+      "type": 2
+   },
+   {
+      "name": "Device.Bridging.Bridge.1.VLANNumberOfEntries",
+      "value": "1",
+      "type": 2
+   },
+   {
+      "name": "Device.Bridging.Bridge.1.VLANPortNumberOfEntries",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.Bridging.Bridge.1.Port.1.Enable",
+      "value": "true",
+      "type": 3
+   },
+   {
+      "name": "Device.Bridging.Bridge.1.Port.1.Status",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.Bridging.Bridge.1.Port.1.Alias",
+      "value": "Port1",
+      "type": 0
+   },
+   {
+      "name": "Device.Bridging.Bridge.1.Port.1.Name",
+      "value": "brlan0",
+      "type": 0
+   },
+   {
+      "name": "Device.Bridging.Bridge.1.Port.1.LastChange",
+      "value": "1707414633",
+      "type": 2
+   },
+   {
+      "name": "Device.X_RDK_WanManager.InterfaceAvailableStatus",
+      "value": "DOCSIS1,0|DSL1,1|ETH3,0|GPON1,0|LTE1,1",
+      "type": 0
+   },
+   {
+      "name": "Device.X_RDK_WanManager.InterfaceActiveStatus",
+      "value": "DOCSIS1,0|DSL1,1|ETH3,0|GPON1,0|LTE1,0",
+      "type": 0
+   },
+   {
+      "name": "Device.X_RDK_GatewayManagement.Gateway.1.MacAddress",
+      "value": "8C:6A:8D:84:C6:B9",
+      "type": 0
+   },
+   {
+      "name": "Device.X_RDK_GatewayManagement.Gateway.2.MacAddress",
+      "value": "8C:6A:8D:84:C6:BA",
+      "type": 0
+   },
+   {
+      "name": "Device.X_RDK_GatewayManagement.GatewayRestoreAttemptCount",
+      "value": "0",
+      "type": 2
+   },
+   {
+      "name": "Device.X_RDK_GatewayManagement.Gateway.1.OperationStatus",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.X_RDK_GatewayManagement.Gateway.2.OperationStatus",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.X_RDK_GatewayManagement.Gateway.1.ActiveStatus",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.X_RDK_GatewayManagement.Gateway.2.ActiveStatus",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.X_RDK_Remote.Device.2.Status",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_batteryBackup.supported",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_batteryBackup.batteryHealth",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_batteryBackup.batteryStatus",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_batteryBackup.chargingStatus",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_batteryBackup.estimatedChargeRemaining",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_batteryBackup.estimatedMinutesRemaining",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_batteryBackup.secondsOnBattery",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_batteryBackup.batteryCapacity",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.DeviceInfo.X_RDKCENTRAL-COM_batteryBackup.serialNumber",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.Cellular.X_RDK_Status",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.Cellular.X_RDK_Enable",
+      "value": "false",
+      "type": 3
+   },
+   {
+      "name": "Device.Cellular.Interface.1.X_RDK_RadioEnvConditions",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.Cellular.Interface.1.RSSI",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.Cellular.Interface.1.X_RDK_SNR",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.Cellular.Interface.1.RSRP",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.Cellular.Interface.1.RSRQ",
+      "value": "Unknown",
+      "type": 0
+   },
+   {
+      "name": "Device.Test.Property",
+      "value": "test",
+      "type": 0
+   }
+]
